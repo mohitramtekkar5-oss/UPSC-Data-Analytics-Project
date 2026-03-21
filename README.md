@@ -66,3 +66,5 @@ Understanding trends in competitive examinations like UPSC is challenging due to
 ---
 ## Screenshots 
 ![Dashboard](https://github.com/mohitramtekkar5-oss/UPSC-Data-Analytics-Project/blob/cb94a67557f64e35da3d392781def07892e82bfc/UPSC%20VISUALISATION-1.pdf)
+![Dashboard](https://github.com/mohitramtekkar5-oss/UPSC-Data-Analytics-Project/blob/ea1a850690559a5d0ae5923903cd690631dae0bc/UPSC%20VISUALISATION-2.pdf)
+![Dashboard](https://github.com/mohitramtekkar5-oss/UPSC-Data-Analytics-Project/blob/ea1a850690559a5d0ae5923903cd690631dae0bc/UPSC%20VISUALISATION-3.pdf)
